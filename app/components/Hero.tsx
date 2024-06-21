@@ -15,6 +15,9 @@ export default function Hero() {
           create an interface for creating it, it is that users <br />
           prefer you because your product is easy to use.<br />
         </div>
+        <button className="bg-[#7579FF] py-2 rounded-xl px-6">
+              Contact Me
+            </button>
       </div>
       
       <div className="flex justify-end px-28">
