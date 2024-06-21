@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 10dvh;
+    background-image: url('/hero.png');
+    background-size: cover;
+    background-position: 71% 18%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
